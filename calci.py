@@ -1,3 +1,6 @@
+#This file contains code for the conversion caluculator
+
+
 class time:
     items = {1:"Hours", 2:"Minutes", 3:"Seconds"}
     def main_time(self):
