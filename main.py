@@ -1,8 +1,7 @@
-...........
-#This code is written in 3 files. They are main.py file and calci.py file and game.py.
-#main.py file calls the functions in calci.py file and calci.py contains the caluculations required
-#it also calls game.py and game.py plays the game
-..........
+# This file contains code of unit conversion caluculator
+#This code is written in 3 files. They are main.py file and calci.py file and game.py file.
+#main.py file calls the functions in calci.py file and calci.py contains the caluculations required 
+#and game.py file contains the code for the word game 
 
 '''
 This a bot designed for playing a word game and helping converting units
@@ -23,11 +22,11 @@ from  calci import main as cm
 
 
 print("Hi there I'm Carlo. I can help ypu cheerup by playing a game or helping in conversion of units. So select one of the option below")
-print("1. Word Game\n2. Unit convertor")
+
 
 while True:
     try:
-        choice = int(input())
+        choice = int(input("Let's try this\n1. Word Game\n2. Unit convertor"))
     except ValueError:
         print("Must be a number")
     else:
