@@ -1,6 +1,8 @@
-# This file contains code of unit conversion caluculator
-#This code is written in 2 files. They are main.py file and calci.py file.
+...........
+#This code is written in 3 files. They are main.py file and calci.py file and game.py.
 #main.py file calls the functions in calci.py file and calci.py contains the caluculations required
+#it also calls game.py and game.py plays the game
+..........
 
 '''
 This a bot designed for playing a word game and helping converting units
