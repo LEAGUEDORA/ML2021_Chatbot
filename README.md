@@ -20,3 +20,10 @@ This chatbot is developed by:
   
   
  The process file and objectve files are aattached to this repository and even the flowcharts are atteched to this repository
+
+
+
+
+Links referred to complete this code:
+  1. For dictionaries: https://www.w3schools.com/python/gloss_python_loop_dictionary_items.asp
+  2. To generate randoms: https://www.w3schools.com/python/module_random.asp
