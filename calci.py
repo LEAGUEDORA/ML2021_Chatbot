@@ -322,7 +322,7 @@ class main:
         return 
 
     def main(self):
-        print("Hi there! I'm sara. I can help you converting units from one to another. :)")
+        print("Hi there! I'm VICTOR. I can help you converting units from one to another. :)")
         print("I can do the followning conversions for you. Choose the right one from the following:")
         while True:
             try:
